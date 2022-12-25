@@ -1,6 +1,6 @@
 # Useful Repositories
 
-#### Free code camp: https://github.com/freeCodeCamp/freeCodeCamp
+#### Free Code Camp: https://github.com/freeCodeCamp/freeCodeCamp
 
 #### Command line course: https://github.com/jlevy/the-art-of-command-line
 
