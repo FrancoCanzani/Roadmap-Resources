@@ -15,6 +15,7 @@
 - Free JS Resources:
 
   - https://www.java5cript.com/
+  - http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/ (Great article on prototypes)
 
 - Free CSS Resources:
 
