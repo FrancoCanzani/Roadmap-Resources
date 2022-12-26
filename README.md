@@ -10,7 +10,7 @@
 
 #### 30 seconds of code: https://github.com/30-seconds/30-seconds-of-code
 
-# Online resources
+# Websites and articles
 
 - Free JS Resources:
 
@@ -34,3 +34,5 @@
 
 - Git Resources:
   - https://ohshitgit.com/ (Very fun cheat shit)
+
+# Great YouTube stuff
