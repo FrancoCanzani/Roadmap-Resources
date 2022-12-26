@@ -36,3 +36,6 @@
   - https://ohshitgit.com/ (Very fun cheat shit)
 
 # Great YouTube stuff
+
+* JS:
+  * https://www.youtube.com/watch?v=sOrtAjyk4lQ&ab_channel=ProgrammingWithAvelx (Prototype Inheritance)
