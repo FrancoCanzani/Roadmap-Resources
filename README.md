@@ -16,6 +16,7 @@
 
   - https://www.java5cript.com/
   - http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/ (Great article on prototypes)
+  - https://dmitripavlutin.com/gentle-explanation-of-this-in-javascript/ (What is 'This' in JS)
 
 - Free CSS Resources:
 
