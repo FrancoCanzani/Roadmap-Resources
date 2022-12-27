@@ -33,7 +33,7 @@
   - https://omatsuri.app/ (All)
 
 - Git Resources:
-  - https://ohshitgit.com/ (Very fun cheat shit)
+  - https://ohshitgit.com/ (Very fun cheatsheet)
 
 # Great YouTube stuff
 
