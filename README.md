@@ -32,6 +32,7 @@
   - https://randoma11y.com/ (Color combinator)
   - https://shadows.brumm.af/ (Shadow generator)
   - https://omatsuri.app/ (All)
+  - https://cssgridgarden.com/ and https://codepip.com/games/flexbox-froggy/ (Games to practice Grid and Flexbox)
 
 - Git Resources:
   - https://ohshitgit.com/ (Very fun cheatsheet)
