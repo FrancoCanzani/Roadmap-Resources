@@ -41,3 +41,7 @@
 
 * JS:
   * https://www.youtube.com/watch?v=sOrtAjyk4lQ&ab_channel=ProgrammingWithAvelx (Prototype Inheritance)
+  
+# Webpack
+  * [The offial documentation] (https://webpack.js.org/)
+  * [This video by Cole Steele is great] (https://www.youtube.com/watch?v=MpGLUVbqoYQ&t=868s&pp=ugMICgJlcxABGAE%3D)
